@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LayoutDesignCourse</string>
+    <string-array name="position">
+        <item>Android Developer</item>
+        <item>iOS Developer</item>
+        <item>Web Developer</item>
+    </string-array>
+</resources>
